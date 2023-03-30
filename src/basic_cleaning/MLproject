@@ -23,11 +23,11 @@ entry_points:
 
       min_price:
         description: Minimum price for the prediction column
-        type: string
+        type: float
 
       max_price:
         description: Maximum price for the prediction column
-        type: string
+        type: float
 
 
     command: >-
